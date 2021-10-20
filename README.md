@@ -2,7 +2,7 @@
 
 This project is inspired from zomato, I have tried a create a food ording website. <br>
 This website is completely responsive on all types of devices <br>
-Website => https://shishirshekhar.github.io/Shimato/ <br>
+
 
 
 Images =>
